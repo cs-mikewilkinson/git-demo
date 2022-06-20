@@ -6,8 +6,10 @@ Another line added because I'm crashing while trying to close the application
 
 ## Website content
 
-1. index.html
+Here is a list of files for the website
 
+1. index.html
+2. something else is going to go here
 
 
 
